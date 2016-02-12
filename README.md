@@ -72,6 +72,10 @@ If you're trying to deploy changes to the actual Dwolla repo, you'll need to mak
 
 Otherwise, if you're deploying to your own repo, make sure you edit the `buildcontrol.dist.options.remote` to be the URL of your git repo.  You'll probably also want to edit `app/CNAME` to use your own CNAME.
 
+## License
+
+Arbalest is licensed under the `MIT License <https://github.com/Dwolla/arbalest/raw/master/LICENSE>`_.
+
 ## Contributing
 
 Feel free to fork this repo and submit PRs for any corrections, new features, etc. you think we should include.
