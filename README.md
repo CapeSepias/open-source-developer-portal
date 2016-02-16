@@ -74,7 +74,7 @@ Otherwise, if you're deploying to your own repo, make sure you edit the `buildco
 
 ## License
 
-Arbalest is licensed under the `MIT License <https://github.com/Dwolla/arbalest/raw/master/LICENSE>`_.
+Licensed under the `MIT License <https://github.com/Dwolla/arbalest/raw/master/LICENSE>`_.
 
 ## Contributing
 
